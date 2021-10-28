@@ -1,0 +1,105 @@
+[33mcommit 842f8f42c9e0b43bc22c93506ceaa06196d864fa[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9339a28 6c215be
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 11:36:03 2021 -0300
+
+    Merge pull request #7 from Lalo901/Lalo901-patch-1
+    
+    Lalo901 patch 1
+
+[33mcommit 6c215be8db456952934b8955c69df293d9fdda64[m
+Merge: 9d1e935 9339a28
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 11:35:47 2021 -0300
+
+    Merge branch 'main' into Lalo901-patch-1
+
+[33mcommit 9d1e93539a883a09a7056ac3d458ec9316fab08d[m
+Merge: 8d78cee 00f9afa
+Author: JuanC1476 <87099493+JuanC1476@users.noreply.github.com>
+Date:   Thu Oct 28 11:28:09 2021 -0300
+
+    Merge pull request #6 from Lalo901/micho
+    
+    Merge pull request #5 from Lalo901/Lalo901-patch-1
+
+[33mcommit 00f9afaf76143b43fa2fb73711474d2328b1e171[m
+Merge: a652ad5 8d78cee
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 11:23:45 2021 -0300
+
+    Merge pull request #5 from Lalo901/Lalo901-patch-1
+    
+    Update README.md
+
+[33mcommit 8d78ceed9e64e00e10bdbf746412b60e24a40f9d[m
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 11:23:07 2021 -0300
+
+    Update README.md
+
+[33mcommit 9339a2867087b4e78f4f6ce939c0c801ad3bb823[m
+Merge: ec249ef c8efcb7
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 10:49:17 2021 -0300
+
+    Merge pull request #1 from Lalo901/Primer_aporte
+    
+    Primer aporte
+
+[33mcommit ec249ef4ccc95591a782c3f10df585fa7ca59071[m
+Merge: 9481098 f27b215
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Thu Oct 28 10:13:44 2021 -0300
+
+    Merge pull request #2 from Lalo901/colaboracion
+    
+    Colaboracion aceptada
+
+[33mcommit c8efcb7b7fb1de94e466cff9e82521e52e07c4f4[m[33m ([m[1;31morigin/Primer_aporte[m[33m)[m
+Author: Eduardo Farfan <farfaneduar@gmail.com>
+Date:   Sun Oct 24 22:38:37 2021 -0300
+
+    revision aporte
+
+[33mcommit a652ad5718852de32833126f4cae190363f414e6[m
+Author: JuanC1476 <+>
+Date:   Sun Oct 24 20:10:04 2021 -0300
+
+    un nombre cualquiera
+
+[33mcommit 58e9d892777b20e6b2d266a19916a3bb974392ef[m
+Author: JuanC1476 <+>
+Date:   Sun Oct 24 20:03:28 2021 -0300
+
+    a ver
+
+[33mcommit f27b215150b3e1a455036c143844654b75fe4129[m[33m ([m[1;31morigin/colaboracion[m[33m)[m
+Author: Erica Surge <erica12s@protonmail.com>
+Date:   Sun Oct 24 19:31:13 2021 -0300
+
+    otro nuevo
+
+[33mcommit f78f316f8a2e9a9716a6154b0212eed2406cecfb[m
+Author: Erica Surge <erica12s@protonmail.com>
+Date:   Sun Oct 24 19:22:12 2021 -0300
+
+    aporte erica
+
+[33mcommit bfe68844faea1db45619732ef2eeb805b64eb31c[m
+Author: Eduardo Farfan <farfaneduar@gmail.com>
+Date:   Sun Oct 24 18:31:03 2021 -0300
+
+    ingreso_datos
+
+[33mcommit 94810983394fb8fd4eab0f802f0336d81757fa23[m[33m ([m[1;32mmain[m[33m)[m
+Author: Eduardo Farfan <farfaneduar@gmail.com>
+Date:   Sun Oct 24 18:09:14 2021 -0300
+
+    agregue nombre
+
+[33mcommit 00f7477477d623165fdb19f53de98d9dd958c89a[m
+Author: Lalo901 <87098910+Lalo901@users.noreply.github.com>
+Date:   Sun Oct 24 17:37:28 2021 -0300
+
+    Initial commit
