@@ -1,16 +1,17 @@
 # Trabajo-Final-EDI
-
-Hello word
-My name Eduardo Farfan
-
+Hello word My name Eduardo Farfan
 
 Edades necesarias
 
-aporte ERICA 
-modificaciones
+aporte ERICA modificaciones
 
 otra nueva
 
-
 modificaciones a controlar
+
+
+JAjajaaja que risa
+
+
+
 
